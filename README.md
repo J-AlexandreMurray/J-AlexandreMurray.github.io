@@ -4,13 +4,13 @@
 ![](https://img.shields.io/badge/Excitement-High-red)
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
-![](https://img.shields.io/github/forks/J-AlexandreMurray/The_Ryze)
-![](https://img.shields.io/github/contributors/J-AlexandreMurray/The_Ryze)
-![](https://img.shields.io/github/issues/J-AlexandreMurray/The_Ryze)
-![](https://img.shields.io/github/stars/J-AlexandreMurray/The_Ryze)
+![](https://img.shields.io/github/forks/J-AlexandreMurray/J-AlexandreMurray.github.io)
+![](https://img.shields.io/github/contributors/J-AlexandreMurray/J-AlexandreMurray.github.io)
+![](https://img.shields.io/github/issues/J-AlexandreMurray/J-AlexandreMurray.github.io)
+![](https://img.shields.io/github/stars/J-AlexandreMurray/J-AlexandreMurray.github.io)
 
 ![](https://img.shields.io/badge/Contributions-Accepting-pink)
-![](https://img.shields.io/github/license/J-AlexandreMurray/The_Ryze)
+![](https://img.shields.io/github/license/J-AlexandreMurray/J-AlexandreMurray.github.io)
 
 <br>
 
@@ -19,21 +19,21 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/J-AlexandreMurray/The_Ryze">
+  <a href="https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io">
     <img src="https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/guy1.png" alt="Logo" width="80" height="100">
   </a>
 
-  <h3 align="center">The Ryze</h3>
+  <h3 align="center">Website Portfolio</h3>
 
   <p align="center">
-    This is a very fun 2 dimensional platformer game with multiple playing levels. 
+    Personal website portfolio, hosted on GitHub Pages. 
     <br />
-    <a href="https://github.com/J-AlexandreMurray/The_Ryze"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/J-AlexandreMurray/The_Ryze/issues">Report Bug</a>
+    <a href="https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/J-AlexandreMurray/The_Ryze/issues">Request Feature</a>
+    <a href="https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,12 +70,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/TheRyzeStart.PNG)
+![Product Name Screen Shot]()
 
 ### Built With
 
-* [Python]()
-* [Pygame]()
+* [Javascript]()
+* [HTML5]()
+* [CSS3]()
+* [SASS]()
 
 
 <!-- LIVE DEMO -->
@@ -104,7 +106,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/J-AlexandreMurray/The_Ryze.git
+   git clone https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io.git
    ```
 2. Install NPM packages
    ```sh
@@ -120,7 +122,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/J-AlexandreMurray/The_Ryze/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/issues) for a list of proposed features (and known issues).
 
 
 
@@ -149,5 +151,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 J. Alexandre Murray - [@ProjectZilart](https://twitter.com/ProjectZilart)
 
-Project Link: [https://github.com/J-AlexandreMurray/The_Ryze](https://github.com/J-AlexandreMurray/The_Ryze)
+Project Link: [https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io)
 
