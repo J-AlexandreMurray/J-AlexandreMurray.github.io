@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot]()
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/SitePortHome.PNG)
 
 ### Built With
 
