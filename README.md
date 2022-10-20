@@ -77,7 +77,7 @@
 * [Javascript]()
 * [HTML5]()
 * [CSS3]()
-* [SASS]()
+* [SCSS]()
 
 
 <!-- LIVE DEMO -->
