@@ -84,8 +84,8 @@
 
 ## Live Demo
 
-![Product Name Screen Shot](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/)
-[Live Demo Link](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/)
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/SiteDemo2.gif)
+[Live Demo Link](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/SiteDemo2.gif)
 
 
 <!-- GETTING STARTED -->
