@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io">
-    <img src="https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/guy1.png" alt="Logo" width="80" height="100">
+    <img src="https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/Profilepicture.jpg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Website Portfolio</h3>
@@ -112,12 +112,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
-
-![Product Name Screen Shot](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo2.gif)
-[Live Demo Link](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo2.gif)
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
