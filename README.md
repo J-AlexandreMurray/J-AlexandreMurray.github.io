@@ -84,8 +84,8 @@
 
 ## Live Demo
 
-![Product Name Screen Shot](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo.gif)
-[Live Demo Link](https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/RyzeDemo.gif)
+![Product Name Screen Shot](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/SiteDemo.gif)
+[Live Demo Link](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io/blob/main/images/SiteDemo.gif)
 
 
 <!-- GETTING STARTED -->
