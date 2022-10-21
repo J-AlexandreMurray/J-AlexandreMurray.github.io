@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
-/*
-	Big Picture by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -664,11 +658,11 @@ input, select, textarea {
 		transition: background-color 0.2s ease-in-out;
 		background-color: #98c593;
 		border: 0;
-		border-radius: 3.5em;
+		border-radius: 4.5em;
 		color: #ffffff;
 		cursor: pointer;
 		display: inline-block;
-		height: 3.5em;
+		height: 4.5em;
 		line-height: 3.5em;
 		outline: 0;
 		padding: 0 2em 0 2em;
@@ -682,8 +676,8 @@ input, select, textarea {
 		input[type="reset"].down,
 		.button.down,
 		button.down {
-			width: 5em;
-			height: 5em;
+			width: 6em;
+			height: 6em;
 			line-height: 4.5em;
 			padding: 0;
 			background-image: url("images/dark-arrow.svg");
