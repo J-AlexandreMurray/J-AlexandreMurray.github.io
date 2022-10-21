@@ -93,27 +93,23 @@
 		<!-- Contact -->
 			<section id="contact" class="main style3 secondary">
 				<div class="content">
-					<h3>Contact Me</h3>
-					
-    				<form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
-            			<label for="Name" class="fcf-label">Your name</label>
-            			<div class="fcf-input-group">
-                			<input type="text" id="Name" name="Name" class="fcf-form-control" required>
-            			</div>
-        				<div class="fcf-form-group">
-            				<label for="Email" class="fcf-label">Your email address</label>
-            			<div class="fcf-input-group">
-                			<input type="email" id="Email" name="Email" class="fcf-form-control" required>
-            			</div>
-        				<div class="fcf-form-group">
-            				<label for="Message" class="fcf-label">Your message</label>
-            			<div class="fcf-input-group">
-                			<textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
-            			</div>
-        </div>
-        				<div class="fcf-form-group">
-            				<button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send</button>
-        </div>
+					<header>
+						<h2> Feel free to contact me below. </h2>
+						<p>Merely provide your name, email and a short message and I will be sure to get back to you.</p>
+						<p>You can also reach out to me on LinkedIn, or Twitter using the icons below. </p>
+					</header>
+					<div class="box">
+						<form method="post" action="#">
+							<div class="fields">
+								<div class="field half"><input type="text" name="name" placeholder="First and Last Name" /></div>
+								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
+								<div class="field"><textarea name="message" placeholder="Message..." rows="6"></textarea></div>
+							</div>
+							<ul class="actions special">
+								<a href = "mailto: john_murray13@outlook.com"></a>
+								<li><input type="submit" value="Send" /></li>
+							</ul>
+						</form>
 					</div>
 				</div>
 			</section>
