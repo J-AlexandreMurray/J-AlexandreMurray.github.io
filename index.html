@@ -78,12 +78,12 @@
 							<article class="from-left">
 								<a href="images/fulls/01.png"  class="image fit"><img src="images/thumbs/01.gif" title="Language: Python"alt="" />  </a>
 								<p> <strong>The Ryze - a 2D platformer game</strong> </p>
-								<a href="https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/Ryze.py"> GitHub Code</a>
+								<a href="https://github.com/J-AlexandreMurray/The_Ryze/blob/Master/2D/Ryze.py"> Code</a>
 							</article>
 							<article class="from-right">
 								<a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.gif" title="Language: C++" alt="" /></a>
 								<p> <strong>Book Management System</strong> </p>
-								<a href="https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BookshopManagementSystemV1.cpp"> GitHub Code</a>
+								<a href="https://github.com/J-AlexandreMurray/BookManagementSys/blob/main/BookshopManagementSystemV1.cpp"> Code</a>
 							</article>
 						</div>
 
@@ -93,23 +93,27 @@
 		<!-- Contact -->
 			<section id="contact" class="main style3 secondary">
 				<div class="content">
-					<header>
-						<h2> Feel free to contact me below. </h2>
-						<p>Merely provide your name, email and a short message and I will be sure to get back to you.</p>
-						<p>You can also reach out to me on LinkedIn, or Twitter using the icons below. </p>
-					</header>
-					<div class="box">
-						<form method="post" action="#">
-							<div class="fields">
-								<div class="field half"><input type="text" name="name" placeholder="First and Last Name" /></div>
-								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
-								<div class="field"><textarea name="message" placeholder="Message..." rows="6"></textarea></div>
-							</div>
-							<ul class="actions special">
-								<a href = "mailto: john_murray13@outlook.com"></a>
-								<li><input type="submit" value="Send" /></li>
-							</ul>
-						</form>
+					<h3>Contact Me</h3>
+					
+    				<form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+            			<label for="Name" class="fcf-label">Your name</label>
+            			<div class="fcf-input-group">
+                			<input type="text" id="Name" name="Name" class="fcf-form-control" required>
+            			</div>
+        				<div class="fcf-form-group">
+            				<label for="Email" class="fcf-label">Your email address</label>
+            			<div class="fcf-input-group">
+                			<input type="email" id="Email" name="Email" class="fcf-form-control" required>
+            			</div>
+        				<div class="fcf-form-group">
+            				<label for="Message" class="fcf-label">Your message</label>
+            			<div class="fcf-input-group">
+                			<textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
+            			</div>
+        </div>
+        				<div class="fcf-form-group">
+            				<button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send</button>
+        </div>
 					</div>
 				</div>
 			</section>
