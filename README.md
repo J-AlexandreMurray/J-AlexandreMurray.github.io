@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-J. Alexandre Murray - [@ProjectZilart](https://twitter.com/ProjectZilart)
+J. Alexandre Murray - [@J.A. Murray](https://twitter.com/JAMurray_Tech)
 
 Project Link: [https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io](https://github.com/J-AlexandreMurray/J-AlexandreMurray.github.io)
 
